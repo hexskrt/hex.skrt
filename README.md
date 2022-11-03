@@ -1,7 +1,7 @@
 # Hello!
 I'm hexskrt Independent Node Validator
 
-| Sosial Media  | |
+| Social Media  | | Link |
 | :------------: | :------------: |
 | Telegram Chat  | [Link](https://t.me/hexskrt "Link")  |
 | Twitter  | [Link](https://www.twitter.com/ashleycoles69 "Link")  |
