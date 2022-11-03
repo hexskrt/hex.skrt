@@ -1,10 +1,10 @@
-# Hello! Welcome To My Github
+# Welcome To My Github
 About me:
 I'm hexskrt Independent Node Validator & Crypto Enthusiast from Central Java, Indonesia
 
-| Social Media  | |
-| :------------: | :------------: |
-| Telegram Chat  | [Link](https://t.me/hexskrt "Link")  |
-| Twitter  | [Link](https://www.twitter.com/ashleycoles69 "Link")  |
-|  Website | [Link](http://www.bangpateng.com "Link")  |
-</p>
+# Social Media
+
+Telegram : https://t.me/hexskrt
+Twitter : https://www.twitter.com/ashleycoles69
+Discord : hexskrt.eth#7637
+GitHub https://github.com/hexskrt
