@@ -7,7 +7,7 @@ I'm Independent Node Validator & Crypto Enthusiast from Central Java, Indonesia
 
 Telegram  https://t.me/hexskrt
 
-Twitter   https://www.twitter.com/hexskrt
+Twitter   https://www.twitter.com/hexskrt / https://www.twitter.com/hexnodes
 
 Discord   hexskrt.eth#7637
 
