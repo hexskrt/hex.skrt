@@ -3,6 +3,8 @@ About me:
 
 Independent Node Validator & Crypto Enthusiast from Central Java, Indonesia
 
+https://linktr.ee/hexskrt
+
 # Social Media
 
 Telegram  https://t.me/hexskrt
