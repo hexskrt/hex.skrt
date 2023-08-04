@@ -14,5 +14,5 @@ Discord   hexskrt.eth#7637
 GitHub    https://github.com/hexskrt
 
 <br />
-    <img align="top" src="https://github-readme-streak-stats.herokuapp.com/?user=elangrr&theme=nightowl&date_format=M%20j%5B%2C%20Y%5D"/>
+    <img align="top" src="https://github-readme-streak-stats.herokuapp.com/?user=hexskrt&theme=nightowl&date_format=M%20j%5B%2C%20Y%5D"/>
 <br />
